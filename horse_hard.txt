@@ -1,0 +1,6 @@
+Player: Mih||	Score: 3||	||Move count: 7
+Player: Mih||	Score: 3||	||Move count: 8
+Player: 3pt||	Score: 2||	||Move count: 9
+Player: #DD||	Score: 1||	||Move count: 3
+Player: Ppt||	Score: 3||	||Move count: 10
+Player: Rat||	Score: 3||	||Move count: 6
