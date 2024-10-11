@@ -1,0 +1,5 @@
+Player: Mih||	Score: 0||	||Move count: 3
+Player: LLo||	Score: 0||	||Move count: 2
+Player: las||	Score: 0||	||Move count: 5
+Player: Rat||	Score: 0||	||Move count: 4
+Player: lll||	Score: 0||	||Move count: 1
