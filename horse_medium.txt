@@ -1,0 +1,4 @@
+Player: Mih||	Score: 2||	||Move count: 6
+Player: GGG||	Score: 2||	||Move count: 4
+Player: @fp||	Score: 0||	||Move count: 0
+Player: Rat||	Score: 2||	||Move count: 6
